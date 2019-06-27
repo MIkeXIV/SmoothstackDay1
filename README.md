@@ -1,2 +1,3 @@
 # SmoothstackDay1
-print shapes
+
+This is the first homework. The program prints right triangles and pyramids of various sizes
